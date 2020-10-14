@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### [`Demo`](https://github.com/Devilzer/ToolTip-React-component)
+### [`Demo`](https://devilzer.github.io/ToolTip-React-component/)
 
 
 
