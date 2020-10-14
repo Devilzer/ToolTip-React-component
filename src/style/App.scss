@@ -23,8 +23,9 @@ body {
         background-color: #f4f4f4;
         text-align: center;
         line-height: 30px;
+        cursor: pointer;
       }
-      div:hover {
+      .active {
         background-color: #f0a500;
       }
     }
@@ -41,6 +42,20 @@ body {
     }
   }
 }
-.active {
+
+.tippy-box[data-theme~="abc"] {
   background-color: #f0a500;
+  color: #1a1c20;
+}
+.tippy-box[data-theme~="abc"][data-placement^="top"] > .tippy-arrow::before {
+  border-top-color: #f0a500;
+}
+.tippy-box[data-theme~="abc"][data-placement^="bottom"] > .tippy-arrow::before {
+  border-bottom-color: #f0a500;
+}
+.tippy-box[data-theme~="abc"][data-placement^="left"] > .tippy-arrow::before {
+  border-left-color: #f0a500;
+}
+.tippy-box[data-theme~="abc"][data-placement^="right"] > .tippy-arrow::before {
+  border-right-color: #f0a500;
 }
