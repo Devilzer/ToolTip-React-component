@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ToolTip-React-component/static/css/main.813a5d58.chunk.css",
+    "main.js": "/ToolTip-React-component/static/js/main.045bced2.chunk.js",
+    "main.js.map": "/ToolTip-React-component/static/js/main.045bced2.chunk.js.map",
+    "runtime-main.js": "/ToolTip-React-component/static/js/runtime-main.8d3d4d4f.js",
+    "runtime-main.js.map": "/ToolTip-React-component/static/js/runtime-main.8d3d4d4f.js.map",
+    "static/css/2.5669735d.chunk.css": "/ToolTip-React-component/static/css/2.5669735d.chunk.css",
+    "static/js/2.f33b714e.chunk.js": "/ToolTip-React-component/static/js/2.f33b714e.chunk.js",
+    "static/js/2.f33b714e.chunk.js.map": "/ToolTip-React-component/static/js/2.f33b714e.chunk.js.map",
+    "index.html": "/ToolTip-React-component/index.html",
+    "precache-manifest.347588be06421221743b46c676728c70.js": "/ToolTip-React-component/precache-manifest.347588be06421221743b46c676728c70.js",
+    "service-worker.js": "/ToolTip-React-component/service-worker.js",
+    "static/css/2.5669735d.chunk.css.map": "/ToolTip-React-component/static/css/2.5669735d.chunk.css.map",
+    "static/css/main.813a5d58.chunk.css.map": "/ToolTip-React-component/static/css/main.813a5d58.chunk.css.map",
+    "static/js/2.f33b714e.chunk.js.LICENSE.txt": "/ToolTip-React-component/static/js/2.f33b714e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3d4d4f.js",
+    "static/css/2.5669735d.chunk.css",
+    "static/js/2.f33b714e.chunk.js",
+    "static/css/main.813a5d58.chunk.css",
+    "static/js/main.045bced2.chunk.js"
+  ]
+}
