@@ -61,7 +61,7 @@ class Tooltip extends React.Component{
                 <div id='left' onClick={this.setPositionLeft}>LEFT</div>
                 </div>
                 <div className="tooltip">
-                    <Tippy content={'Tooltip'} placement ={this.state.active} animation='scale' theme={'abc'} >
+                    <Tippy content={'Tooltip!'} placement ={this.state.active} animation='scale' theme={'abc'} >
                     <button>Hover Over</button>
                     </Tippy>
                     
